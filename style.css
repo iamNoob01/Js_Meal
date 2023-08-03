@@ -4,7 +4,13 @@ img {
 }
 
 .col-md-3 {
-     margin: 20px !important;
+     margin: 30px !important;
+     margin-top: 50px !important;
+}
+p{
+     color: black;
+     font-size: 20px;
+     font-weight: bold;
 }
 
 #navdiv {
@@ -40,7 +46,8 @@ li {
      
 }
 
-p {
+
+span {
      /* font-weight: bold; */
      font-size: 2ppx;
      color: whitesmoke;
